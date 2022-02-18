@@ -21,12 +21,15 @@ empresa, para organización de las tareas del personal del departamento.
 Modelización con regresión logística y comproboción del modelo
 
 5 Conclusiones
+
 Se ha trabajado sobre un histórico de mediciones de sensores y se ha obtenido un modelo predictivo de alta calidad.
 El modelo es estable y consigue plasmar las características de los momentos en los que se producen los fallos de la
 máquina.
 Con los datos objenidos, sabiendo que las variables de Temperatura, Humedad y Horas desde el úlitmo fallo, sabemos que
 con ciertas condiciones de estos indicadores la máquina fallará.
+
 6 Resultados
+
 Nuestra previsión es que usando este modelo se puede construir un plan de mantenimiento preventivo sobre la maquinaria y
 predecir cada cuantas horas hay que revisarla o cambiar piezas susceptibles de avería.
 En conjunto con el departamento de Mantenimiento se realiza el Plan de Mantenimiento Preventivo en el que se incluirán un
